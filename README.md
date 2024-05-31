@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing resources to improve the quality of data collected in insect behavioural bioassays. 
+  
 <!--
 **Dr-Joe-Roberts/Dr-Joe-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
