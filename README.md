@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-::bug:: I’m currently developing resources to improve the quality of data collected in insect olfactometer bioassays. 
+🐛 I’m currently developing resources to improve the quality of data collected in insect olfactometer bioassays. 
   
 <!--
 **Dr-Joe-Roberts/Dr-Joe-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
